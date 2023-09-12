@@ -10,7 +10,7 @@ The following sections contain the solution for all tasks. For each task there i
 ## 1. "Find the carfully hidden 'Score Board' page."
 
 ### Solution
-The scoreboard can be found at http://ip:port/#/score-board
+The scoreboard can be found at http://<IP|Host>/#/score-board
 
 ### Explanation
 The information where the scoreboard can be found comes from the HTML source text. Here you‘ll find the line:
